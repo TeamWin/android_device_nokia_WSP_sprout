@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0da9007f_1d64d1bf",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 802
+      },
+      "writtenOn": "2022-01-17T18:47:19Z",
+      "side": 1,
+      "message": "for some reason this device DOES use recovery as boot but personal test shows that using recovery as boot fails to boot into system for a reason im not sure of",
+      "revId": "682ab39bbb1846991110c5322662e8285da2c518",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    }
+  ]
+}
