@@ -34,13 +34,6 @@ PRODUCT_BRAND := Nokia
 PRODUCT_MODEL := 2.2
 PRODUCT_MANUFACTURER := HMD Global
 
-PRODUCT_BUILD_PROP_OVERRIDES += \
-    TARGET_DEVICE=Note_11P \
-    PRODUCT_NAME=Note_11P \
-    PRIVATE_BUILD_DESC="full_g2062upt_v1_gd_sh2_gq_r-user 11 RP1A.200720.011 2106051247 release-keys"
-
-BUILD_FINGERPRINT := Ulefone/Note_11P/Note_11P:11/RP1A.200720.011/2106051247:user/release-keys
-
 # HACK: Set vendor patch level
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.vendor.build.security_patch=2099-12-31
