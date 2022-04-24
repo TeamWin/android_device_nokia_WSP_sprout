@@ -3,3 +3,4 @@
 /dev/block/platform/bootdevice/by-name/vendor /vendor ext4 ro wait,slotselect,avb,first_stage_mount,wipeingui,backup=1,flashimg=1
 
 /dev/block/platform/bootdevice/by-name/vbmeta /vbmeta emmc defaults defaults
+
